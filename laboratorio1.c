@@ -3,7 +3,10 @@
 int esercizio1()
     /* testo dell'esercizio 1 */
     {
+    /* qui va messo lo svolgimento dell'esercizio */
+
     return 1;
+
     }
 
 int esercizio2()
